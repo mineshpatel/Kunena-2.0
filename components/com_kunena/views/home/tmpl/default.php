@@ -8,6 +8,7 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
  * @link http://www.kunena.org
  **/
+ die("testnilesh");
 defined ( '_JEXEC' ) or die ();
 
 // This file is for Joomla! 1.5 compatibility
